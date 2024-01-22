@@ -11,4 +11,4 @@ Features: AI Art generation
 
 If you have any questions regarding how the app protects your privacy, feel free to email me and I will definitely try to fix/help you.
 
-phamkiem.dev@icloud.com - KThinking
+kaipham279@gmail - KThinking
