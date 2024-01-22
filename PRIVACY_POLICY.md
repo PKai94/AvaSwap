@@ -9,6 +9,8 @@ Features: AI Art generation
 - Swap Face Image
 - Swap Face Video 
 
+Terms of use: https://github.com/PKai94/AvaSwap/blob/main/terms-of-use.md
+
 If you have any questions regarding how the app protects your privacy, feel free to email me and I will definitely try to fix/help you.
 
-phamkiem.dev@icloud.com - KThinking
+phamkiem.dev@icloud.com or kaipham279@gmail.com - KThinking
