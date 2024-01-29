@@ -9,7 +9,7 @@ Features: AI Art generation
 - Swap Face Image
 - Swap Face Video 
 
-If you choose not to read this entire Privacy Policy, we want you to review some key points about AvaSwap's privacy practices:
+If you choose not to read this entire Privacy Policy, we want you to review some key points about AvaSwap privacy practices:
 
 Apps are photo or video editors that allow users to edit portraits with highly realistic facial transformations.
 We do not use the photos or videos you provide when you use the App for any reason other than to provide you with the editing functionality of the App.
