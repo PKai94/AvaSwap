@@ -15,7 +15,7 @@ Apps are photo or video editors that allow users to edit portraits with highly r
 
 We do not use the photos or videos you provide when you use the App for any reason other than to provide you with the editing functionality of the App.
 
-We use third-party cloud providers — specifically Google Cloud Platform and Amazon Web Services — to process and edit photos and videos.
+We use third-party cloud providers — specifically Google Cloud Platform — to process and edit photos and videos.
 
 You only send to the cloud the photos or videos you specifically choose to edit.
 
@@ -37,7 +37,7 @@ Here's more information about our privacy practices.
 
 3. HOW WE SHARE YOUR INFORMATION
 
-  We do not disclose user photographs or videos to third parties (with the exception of temporarily caching an encrypted version with our cloud providers, Google Cloud Platform and Amazon Web Services, to provide the photo and video editing features of the Apps). We cannot share the photos and videos cached for processing as we do not store the encryption keys.
+  We do not disclose user photographs or videos to third parties (with the exception of temporarily caching an encrypted version with our cloud providers, Google Cloud Platform, to provide the photo and video editing features of the Apps). We cannot share the photos and videos cached for processing as we do not store the encryption keys.
 
 
 If you have any questions regarding how the app protects your privacy, feel free to email me and I will definitely try to fix/help you.
