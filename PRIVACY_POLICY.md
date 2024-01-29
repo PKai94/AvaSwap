@@ -12,10 +12,15 @@ Features: AI Art generation
 If you choose not to read this entire Privacy Policy, we want you to review some key points about AvaSwap privacy practices:
 
 Apps are photo or video editors that allow users to edit portraits with highly realistic facial transformations.
+
 We do not use the photos or videos you provide when you use the App for any reason other than to provide you with the editing functionality of the App.
+
 We use third-party cloud providers — specifically Google Cloud Platform and Amazon Web Services — to process and edit photos and videos.
+
 You only send to the cloud the photos or videos you specifically choose to edit.
+
 Photos or videos are temporarily stored on a cloud server during editing and encrypted with a key stored locally on your mobile device.
+
 The photo or video will be deleted immediately after finishing the editing process.
 
 Here's more information about our privacy practices.
